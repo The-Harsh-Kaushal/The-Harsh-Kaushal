@@ -10,12 +10,6 @@
 ## 🚀 About Me
 I'm a B.Tech student passionate about building **secure, scalable, and future-ready backend systems**.  
 I love exploring API security, authentication mechanisms, blockchain applications, and backend performance optimization.  
-
-Currently working on:  
-- **Authentication Gateway** — JWT auth, refresh token rotation, session hijacking prevention, leaky bucket rate limiting, Helmet protection.  
-- **Cyber Threat Detection (ML)** — predictive security against cyberattacks.  
-- **Blockchain-powered File Hashing Tool** — tamper-proof log verification.  
-
 ---
 
 ## 🛠 Tech Stack
@@ -27,7 +21,6 @@ Currently working on:
 ---
 
 ## 📊 GitHub Stats
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshkaushal&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkaushal&layout=compact&theme=tokyonight)  
 
 ---
