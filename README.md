@@ -13,10 +13,11 @@ I love exploring API security, authentication mechanisms, blockchain application
 ---
 
 ## 🛠 Tech Stack
+- **Frontend:** React.js, HTML , CSS , javaScript  
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, Redis  
 - **Security:** JWT, Helmet.js, Rate Limiting, Session Management  
-- **Other:** MERN Stack, Blockchain Basics, Machine Learning Fundamentals  
+- **Other:** MERN Stack, Blockchain Basics, DSA  
 
 ---
 
